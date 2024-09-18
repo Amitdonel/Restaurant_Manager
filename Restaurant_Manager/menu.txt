@@ -1,0 +1,61 @@
+15
+french fries
+16
+57
+0
+garlic bread
+17
+47
+0
+mushroom soup
+15
+40
+0
+fresh salad
+13
+83
+0
+mozzarella sticks
+19
+98
+0
+kebab
+52
+87
+1
+steak
+57
+102
+1
+salmon fish
+55
+80
+1
+hamburger
+45
+63
+1
+pizza
+42
+120
+1
+fanta
+9
+30
+2
+sparkling water
+6
+33
+2
+water
+5
+119
+2
+cola
+10
+25
+2
+tea
+23
+3
+2

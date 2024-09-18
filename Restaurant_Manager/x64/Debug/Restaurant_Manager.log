@@ -1,0 +1,12 @@
+﻿  Admin.c
+  Customer.c
+  FoodItem.c
+  General.c
+  List.c
+  Main.c
+  Menu.c
+  Order.c
+  OrderList.c
+  Restaurant.c
+  Generating Code...
+  Restaurant_Manager.vcxproj -> C:\Users\user\source\repos\System_Programming\PROJECT_FINAL\Restaurant_Manager\x64\Debug\Restaurant_Manager.exe
