@@ -1,5 +1,5 @@
 # Restaurant_Manager
-This project is a simple Restaurant Management System implemented in C. The system allows users to interact with a restaurant's menu, place orders, and manage customer data. It also provides admin functionalities to manage the food items and process orders.
+This project is a Restaurant Management System implemented in C. The system allows users to interact with a restaurant's menu, place orders, and manage customer data. It also provides admin functionalities to manage the food items and process orders.
 
 Features
 
